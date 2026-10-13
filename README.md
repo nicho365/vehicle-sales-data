@@ -1,4 +1,4 @@
-# 🚗 Vehicle Sales Pricing Analysis
+# Vehicle Sales Pricing Analysis
 
 > Analisis selisih harga jual terhadap nilai pasar (MMR) pada data penjualan kendaraan bekas untuk mendukung keputusan pricing dan inventory.
 
@@ -8,7 +8,7 @@
 
 ---
 
-## 📌 Daftar Isi
+## Daftar Isi
 
 1. [Business Problem](#-business-problem)
 2. [Background Problem](#-background-problem)
@@ -34,7 +34,7 @@
 
 ---
 
-## 📖 Background Problem
+## Background Problem
 
 1. **Fakta industri:** Pasar kendaraan bekas besar dan harganya berfluktuasi mengikuti kondisi ekonomi, suku bunga, dan pasokan unit. *(Tambahkan 1 sumber berita/laporan terbaru di sini.)*
 2. **Masalah umum:** Penentuan harga sering bergantung pada intuisi, sehingga unit terjual terlalu murah atau terlalu lama tertahan di stok.
@@ -57,7 +57,7 @@
 
 ---
 
-## 📂 Dataset
+## Dataset
 
 - **Sumber:** [Kaggle – Vehicle Sales Data (`syedanwarafridi/vehicle-sales-data`)](https://www.kaggle.com/datasets/syedanwarafridi/vehicle-sales-data)
 - **File:** `car_prices.csv`
@@ -81,7 +81,7 @@
 
 ---
 
-## 🔬 Metodologi
+## Metodologi
 
 1. **Data cleaning**
    - Cek missing value, duplikat, dan outlier (harga/odometer tidak wajar)
@@ -127,9 +127,9 @@ print(by_make.head(10))
 
 ---
 
-## 💡 Insight
+## Insight
 
-> ⚠️ Bagian ini diisi setelah analisis dijalankan. Gunakan angka asli dari hasil Anda.
+> Bagian ini diisi setelah analisis dijalankan. Gunakan angka asli dari hasil Anda.
 
 **Template insight:**
 
@@ -148,7 +148,7 @@ print(by_make.head(10))
 
 ---
 
-## ✅ Strategic Recommendation
+## Strategic Recommendation
 
 > Sesuaikan dengan temuan analisis Anda.
 
@@ -163,7 +163,7 @@ print(by_make.head(10))
 
 ---
 
-## ⚠️ Limitasi
+## Limitasi
 
 - Data berbasis pasar Amerika Serikat (kolom `state`), sehingga insight belum tentu berlaku untuk pasar Indonesia.
 - `mmr` adalah estimasi pihak ketiga, bukan harga pasti. Selisih positif atau negatif belum tentu berarti untung atau rugi.
@@ -172,7 +172,7 @@ print(by_make.head(10))
 
 ---
 
-## 🗂️ Struktur Repository
+## Struktur Repository
 
 ```
 vehicle-sales-pricing-analysis/
@@ -187,7 +187,7 @@ vehicle-sales-pricing-analysis/
 
 ---
 
-## ▶️ Cara Menjalankan
+## Cara Menjalankan
 
 ```bash
 # 1. Clone repository
@@ -214,10 +214,3 @@ seaborn
 jupyter
 kaggle
 ```
-
----
-
-## 👤 Author
-
-**[Nama Anda]**
-[LinkedIn](https://linkedin.com/in/username) · [GitHub](https://github.com/username)
