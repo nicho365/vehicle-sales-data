@@ -23,7 +23,7 @@
 
 ---
 
-## 🎯 Business Problem
+## Business Problem
 
 **Industri:** Otomotif (jual-beli kendaraan bekas)
 **Stakeholder:** Pricing Manager, Inventory Manager, Pemilik Dealer
@@ -43,7 +43,7 @@
 
 ---
 
-## 💼 Business Context
+## Business Context
 
 - **Tujuan bisnis:** Menaikkan margin dan mempercepat perputaran stok.
 - **Kontribusi project:** Menunjukkan segmen yang cenderung dijual di bawah pasar, serta waktu dan wilayah dengan harga jual terbaik.
